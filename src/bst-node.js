@@ -5,4 +5,4 @@ export default class BSTNode {
     this.right = null;
   }
   
-}
+};
